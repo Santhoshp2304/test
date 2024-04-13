@@ -1,0 +1,21 @@
+   {
+    "basics": {
+      "name": "Santhosh Kumar P",
+      "fathername":"Padmanaban H",
+      "email": "santhoshp2301@gmail.com",
+      "phone": "(+91) 9789819707",
+      "dob": "23 Jan 1999",
+      "location" :  "27/38 3rd Cross St Chokkalinga Nagar Pallikuppam P.H.Road Chennai-600077"        
+    },
+      "education": {
+        "institution": "DG Vaishnav College",
+        "url": "https://dgvc.com/",
+        "degree": "BCA",
+        "startDate": "2016",
+        "endDate": "2019",
+        "score": "71%"
+      },
+      "hobby" : ["cricket","football","reading book"],
+      "skills" :["c","c++","basic java","javascript","html","css","sql"],
+      "certificates" : ["Manual Testing in Udemy","Full Stack Developing in GUVI"]
+    }

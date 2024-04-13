@@ -55,3 +55,4 @@ xhr.onload = function ()  {
     console.log("_________________________________________________");
 }
 xhr.send();
+export let json = fetch("./resume.JSON");
